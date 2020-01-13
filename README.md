@@ -59,4 +59,4 @@ And for Parallel HDF5 and h5py:
     $ source activate hdf5_1-10
     $ conda install -c cfel hdf5-mpi h5py-mpi mpi4py
 
-NO se enoje nadie por ser pirata
+
