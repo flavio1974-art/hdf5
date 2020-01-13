@@ -1,0 +1,14 @@
+name: hdf5
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3
+  - numpy
+  - pandas
+  - h5py
+  - pytables
+  - jupyter
+  - cartopy
+  - matplotlib
+  - nb_conda
